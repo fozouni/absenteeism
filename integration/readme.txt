@@ -1,1 +1,1 @@
-In this setion you''ll see the integration part's files
+In this directory you'll see the files which are related to integration part
